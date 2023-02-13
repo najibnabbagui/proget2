@@ -1,0 +1,36 @@
+body{
+    background-image: url("/images/fond.png");
+    margin: 100px;
+    padding: 70px;
+    
+}
+.main{
+    background-color: #b8cb21 ;
+    
+}
+.main div{
+    position: relative;
+    float: right;
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    
+}
+.containe{
+    background-color: aliceblue;
+    
+}
+.nav img{
+    float: left;
+    margin: 10px;
+   
+}
+.foot img{
+    float: left;
+}
+.qa{
+    float: right;
+}
+.descr img{
+   width: 50px;
+}

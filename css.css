@@ -1,0 +1,91 @@
+*{
+    margin: 1px;
+    padding: 13px;
+    flex-shrink: ;
+}
+body{
+    background-image: url("/images/fond.png");
+    background-color: aliceblue;
+}
+.main{
+    background-color:#b8cb21
+    
+    
+}
+
+.nav{
+    position: absolute;
+    float: left;
+
+}
+.wac{
+    position: relative;
+}
+#NABBAGUI{
+    width: 300px;
+}
+#qa{
+    color: aliceblue;
+    background-color: green;
+    position: relative;
+   
+    
+}
+#moha{
+    width: 300px;
+}
+#qaq{
+   color: green;
+}
+#wxw{
+   
+   
+}
+.descr{
+    float:right
+   
+    
+   
+   
+}
+.nav p{
+    font-style: italic;
+}
+.foot p{
+    font-style: oblique;
+}
+.foot img{
+    float: left;
+}
+.nav img{ 
+    float: left;
+    margin: 10px;
+}
+
+.main div{
+   float: right;
+   display: flex;
+   justify-content: space-around;
+   width: 50%;
+   align-items: end;
+   
+}
+.descr img{
+    height: 100px;
+}
+.qa{
+    float: right;
+}
+.main li{margin: 12px;}
+
+
+
+
+
+    
+
+
+
+
+
+
